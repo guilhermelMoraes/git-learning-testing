@@ -2,3 +2,5 @@ arquivo principal
 na branch master
 primeiro commit
 primeira alteração ainda na branch principal
+
+PRIMEIRA ALTERAÇÃÕ, SÓ QUE ELA CONTINHA UM ERRO, QUE FOI REMOVIDO!
