@@ -1,6 +1,6 @@
 arquivo principal
 na branch master
 primeiro commit
-primeira alteração ainda na branch principal:
+primeira alteração ainda na branch principal
 
-*******ERRO A SER DELETADO******* 
+NOVAS ALTERACções do guilherme
