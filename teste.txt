@@ -4,3 +4,5 @@ primeiro commit
 primeira alteração ainda na branch principal
 
 NOVAS ALTERACções do guilherme
+
+ESSAS SÃO AS SEGUNDAS ALTEARÇÕES NO PULL REQUEST E AS UNICAS QUE DEVERAO FICAR QUANDO O REBASE FOR FIANLZIADO
